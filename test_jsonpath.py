@@ -2,7 +2,6 @@ import requests
 import jsonpath
 
 def test_jsonpath():
-    # 演练环境httpbin.ceshiren，请求什么，返回什么
     url = "https://httpbin.ceshiren.com/post"
     # 定义一个变量，存放请求体信息
     req_body = {"teacher": "ad", "school": "hogwarts"}

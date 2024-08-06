@@ -17,7 +17,7 @@ class TestPetstorePetmanager:
         # 查询接口 url
         self.search_url = self.base_url + "/findByStatus"
         # 定义 pet id
-        self.pet_id = 9223372000001084222
+        self.pet_id = 1223372000001084233
         # 删除接口 url
         self.delete_url = self.base_url + f"/{self.pet_id}"
         # 宠物状态
@@ -42,7 +42,7 @@ class TestPetstorePetmanager:
           "status": self.pet_status
         }
         # 更新宠物数据
-        self.update_name = "miao-hogwarts"
+        self.update_name = "miao"
         self.update_pet_info = {
           "id": self.pet_id,
           "category": {

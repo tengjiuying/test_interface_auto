@@ -4,16 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b16bb34-1a93-4f30-8989-caf6f5917774" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/test_interface.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_jsonpath.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_petstore_petmanager.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/util/log_util.py" afterDir="false" />
+    <list default="true" id="6b16bb34-1a93-4f30-8989-caf6f5917774" name="Changes" comment="测试用例">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_jsonpath.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_jsonpath.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_petstore_petmanager.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_petstore_petmanager.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,17 +35,32 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "tengjiuying"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/tengjiuying/test_interface_auto.git",
+    "accountId": "8ac6c5d6-cf06-4aa5-a3d1-a9f397de34f6"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 5
 }]]></component>
   <component name="ProjectId" id="2kGbqmBYfsjnBABDcJssbioPOso" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "node.js.detected.package.eslint": "true",
@@ -63,6 +72,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\program\test_interface" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -79,11 +93,34 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1722913053528</updated>
-      <workItem from="1722913056662" duration="1276000" />
+      <workItem from="1722913056662" duration="1715000" />
     </task>
+    <task id="LOCAL-00001" summary="宠物商店接口自动化测试">
+      <option name="closed" value="true" />
+      <created>1722914425171</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1722914425171</updated>
+    </task>
+    <task id="LOCAL-00002" summary="测试用例">
+      <option name="closed" value="true" />
+      <created>1722914535354</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1722914535354</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="宠物商店接口自动化测试" />
+    <MESSAGE value="测试用例" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试用例" />
   </component>
 </project>
